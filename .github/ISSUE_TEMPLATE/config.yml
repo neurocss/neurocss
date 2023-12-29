@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Chat
+    url: https://nyxb.chat
+    about: Ask and discuss real-time with other users on the UnoCSS channel on the Anthony's server.
+  - name: Questions & Discussions
+    url: https://github.com/neurocss/neurocss/discussions
+    about: Use GitHub discussions for message-board style questions and discussions.
